@@ -7,7 +7,7 @@ RENCANA KONTEN WPU
     ^ react
 - struktur data dasar
 - PHP Frameworks
-    ^ Lavarel
+  ^ Lavarel
 - Interview
 - VLogs
 - Python
